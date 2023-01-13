@@ -6,3 +6,5 @@ services:
       - POSTGRES_DB=postgres
       - POSTGRES_PASSWORD=odoo
       - POSTGRES_USER=odoo
+    ports:
+      - "5432:5432"
