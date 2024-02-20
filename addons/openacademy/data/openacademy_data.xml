@@ -1,0 +1,12 @@
+<odoo>
+    <data>
+          <record id="object0" model="openacademy.cursos">
+            <field name="curso">DAM</field>
+            <field name="codigo">34</field>
+          </record>
+        <record id="object1" model="openacademy.cursos">
+            <field name="curso">ASIR</field>
+            <field name="codigo">22</field>
+          </record>
+    </data>
+</odoo>
